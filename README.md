@@ -123,6 +123,3 @@ The server broadcasts real-time events to project members:
 - Add role-based permissions (viewer/member/owner)
 - Deploy backend to Railway/Render, frontend to Vercel/Netlify
 
-## 📄 License
-
-MIT
