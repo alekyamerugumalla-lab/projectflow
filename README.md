@@ -2,7 +2,7 @@
 
 A full-stack project management application similar to Trello/Asana, built with **Node.js + Express** (backend) and **React + Vite** (frontend).
 
-
+## ✨ Features
 
 - **Auth system** — Register/Login with JWT tokens and bcrypt password hashing
 - **Project boards** — Create group projects with custom colors
